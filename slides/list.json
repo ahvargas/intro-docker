@@ -6,5 +6,11 @@
     "contenedores-ligeros-2.md",
     "docker-vs-maquinas-virtuales.md",
     "docker-vs-maquinas-virtuales-2.md",
-    "docker-vs-maquinas-virtuales-3.md"
+    "docker-vs-maquinas-virtuales-3.md",
+    "arquitectura-docker.md",
+    "arquitectura-docker-2.md",
+    "arquitectura-docker-3.md",
+    "imagenes-docker.md",
+    "contenedores-docker.md",
+    "registros-docker.md"
 ]

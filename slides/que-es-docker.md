@@ -1,4 +1,4 @@
-##  ¿Que es docker?
+##  ¿Que es Docker?
 
  <!-- .slide: data-background="#3399ff" -->
 
