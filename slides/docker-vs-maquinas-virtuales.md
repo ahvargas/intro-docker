@@ -2,4 +2,4 @@
 
 <!-- .slide: data-background="#3399ff" -->
 
- ![](/resources/docker.vs.vm.jpg)
+ ![](resources/docker.vs.vm.jpg)
